@@ -21,6 +21,7 @@ This organization contains the data product algorithms and workflows for the EMI
 
 ## Related EMIT repositories:
 - [ISOFIT Atmospheric Correction](https://github.com/isofit/isofit)
-- [Tetracorder](https://github.com/PSI-edu/spectroscopy-tetracorder) (EMIT maintains a fork for special installation instructiosn)
+- [Tetracorder](https://github.com/PSI-edu/spectroscopy-tetracorder) (EMIT maintains a fork for special installation instructions)
+- [MMGIS - application supporting VISIONS](https://github.com/NASA-AMMOS/MMGIS)
 - [Training and Tutorials](https://github.com/nasa/EMIT-Data-Resources)
 
