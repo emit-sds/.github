@@ -14,6 +14,7 @@ This organization contains the data product algorithms and workflows for the EMI
 - [Level 3 Aggregation](https://github.com/emit-sds/emit-sds-l3)
 - [Level 4 Earth System Models](https://github.com/emit-sds/emit-sds-l4)
 - [Greenhouse Gases](https://github.com/emit-sds/emit-ghg)
+- [Acid Mine Drainage](https://github.com/emit-sds/mined-lands)
 
 ## EMIT repositories that manage the system workflow and provide additional utilities include:
 - [EMIT Workflow Manager](https://github.com/emit-sds/emit-main)
