@@ -5,8 +5,8 @@ This organization contains the data product algorithms and workflows for the EMI
 ## EMIT Core Science Data System (SDS) algorithms
 
 - [Level 0 Raw Data Handling](https://github.com/emit-sds/emit-sds-l0)
-- [Level 0 Raw Data Handling](https://github.com/emit-sds/emit-sds-l0)
 - [Level 1a Depacketizing and Reassembly](https://github.com/emit-sds/emit-sds-l1a)
+- [Level 1b Radiance](https://github.com/emit-sds/emit-sds-l1b)
 - [Level 1b Geo](https://github.com/emit-sds/emit-sds-l1b-geo)
 - [Level 2a Reflectance](https://github.com/emit-sds/emit-sds-l2a)
 - [Level 2b Minerology](https://github.com/emit-sds/emit-sds-l2b)
